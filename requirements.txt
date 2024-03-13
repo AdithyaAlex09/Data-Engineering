@@ -1,0 +1,16 @@
+kaggle
+pyspark
+mlflow==2.9.2
+apache-airflow
+apache-airflow-providers-apache-spark
+scikit-learn
+numpy
+pandas
+matplotlib
+seaborn
+ipykernel
+xgboost
+pyarrow
+minio
+pymongo
+confluent-kafka
